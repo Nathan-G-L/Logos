@@ -1,0 +1,41 @@
+C:\Users\DTP-3\Desktop\Logos Rotulagem\Logos Rotulagem\bin\Debug\Logos Rotulagem.exe.config
+C:\Users\DTP-3\Desktop\Logos Rotulagem\Logos Rotulagem\bin\Debug\Logos Rotulagem.exe
+C:\Users\DTP-3\Desktop\Logos Rotulagem\Logos Rotulagem\bin\Debug\Logos Rotulagem.pdb
+C:\Users\DTP-3\Desktop\Logos Rotulagem\Logos Rotulagem\bin\Debug\Workflow Abrasipa 4.6.dll
+C:\Users\DTP-3\Desktop\Logos Rotulagem\Logos Rotulagem\bin\Debug\Workflow Abrasipa 4.6.pdb
+C:\Users\DTP-3\Desktop\Logos Rotulagem\Logos Rotulagem\bin\Debug\Workflow Abrasipa 4.6.dll.config
+C:\Users\DTP-3\Desktop\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos_Rotulagem.Form1.resources
+C:\Users\DTP-3\Desktop\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos_Rotulagem.Properties.Resources.resources
+C:\Users\DTP-3\Desktop\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.csproj.GenerateResource.cache
+C:\Users\DTP-3\Desktop\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.csproj.CoreCompileInputs.cache
+C:\Users\DTP-3\Desktop\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.csproj.CopyComplete
+C:\Users\DTP-3\Desktop\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.exe
+C:\Users\DTP-3\Desktop\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.pdb
+I:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\bin\Debug\Logos Rotulagem.exe.config
+I:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\bin\Debug\Logos Rotulagem.exe
+I:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\bin\Debug\Logos Rotulagem.pdb
+I:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\bin\Debug\Workflow Abrasipa 4.6.dll
+I:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\bin\Debug\Workflow Abrasipa 4.6.pdb
+I:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\bin\Debug\Workflow Abrasipa 4.6.dll.config
+I:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos_Rotulagem.Form1.resources
+I:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos_Rotulagem.Properties.Resources.resources
+I:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.csproj.GenerateResource.cache
+I:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.csproj.CoreCompileInputs.cache
+I:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.csproj.CopyComplete
+I:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.exe
+I:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.pdb
+I:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.csproj.AssemblyReference.cache
+E:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\bin\Debug\Logos Rotulagem.exe.config
+E:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\bin\Debug\Logos Rotulagem.exe
+E:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\bin\Debug\Logos Rotulagem.pdb
+E:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\bin\Debug\Workflow Abrasipa 4.6.pdb
+E:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\bin\Debug\Workflow Abrasipa 4.6.dll.config
+E:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.csproj.AssemblyReference.cache
+E:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.exe.config
+E:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos_Rotulagem.Form1.resources
+E:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos_Rotulagem.Properties.Resources.resources
+E:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.csproj.GenerateResource.cache
+E:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.csproj.CoreCompileInputs.cache
+E:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Ro.860F9894.Up2Date
+E:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.exe
+E:\Soluções em Desenvolvimento\Logos Rotulagem\Logos Rotulagem\obj\Debug\Logos Rotulagem.pdb

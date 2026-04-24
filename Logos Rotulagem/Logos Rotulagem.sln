@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logos Rotulagem", "Logos Rotulagem\Logos Rotulagem.csproj", "{91CDAF39-D535-4143-B888-7E27EAE469EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91CDAF39-D535-4143-B888-7E27EAE469EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CDAF39-D535-4143-B888-7E27EAE469EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CDAF39-D535-4143-B888-7E27EAE469EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CDAF39-D535-4143-B888-7E27EAE469EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99F8A705-3F66-4AA2-B40C-6C7AFE46F656}
+	EndGlobalSection
+EndGlobal
